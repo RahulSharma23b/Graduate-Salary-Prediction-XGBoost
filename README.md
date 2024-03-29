@@ -1,1 +1,5 @@
-# Graduate-Salary-Prediction-XGBoost
+# Graduate-Salary-Prediction-XGBoost![Screenshot 2024-03-29 174735](https://github.com/RahulSharma23b/Graduate-Salary-Prediction-XGBoost/assets/92786939/7d85f608-afff-4bbf-beab-f89463e05104)
+![Screenshot 2024-03-29 174802](https://github.com/RahulSharma23b/Graduate-Salary-Prediction-XGBoost/assets/92786939/d1922d09-8f3d-441d-831e-15b1f070cb0b)
+![Screenshot 2024-03-29 174930](https://github.com/RahulSharma23b/Graduate-Salary-Prediction-XGBoost/assets/92786939/98d12e88-48d4-4d2c-85d8-79b936c8a131)
+![Screenshot 2024-03-29 174947](https://github.com/RahulSharma23b/Graduate-Salary-Prediction-XGBoost/assets/92786939/9e57ec67-1337-42a5-85ab-e15f72991b89)
+![Screenshot 2024-03-29 174957](https://github.com/RahulSharma23b/Graduate-Salary-Prediction-XGBoost/assets/92786939/50d3b21b-9177-4910-889b-4e8d441ca307)
